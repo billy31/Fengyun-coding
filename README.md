@@ -1,3 +1,3 @@
-# Tutorial
+This repository recorded the steps of developing ways to bulkly download files from python.
 
-This is my tutorial repository.
+Mainly use for downloading Fengyun-3C data.

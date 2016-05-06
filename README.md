@@ -25,3 +25,8 @@ Process of downloading Fengyun data:
 
 [6] Download the data
 
+# 2016.05.06
+
+HOLY SHIT！ There's something wrong with my code actually. New revision is under coding and pyModis will be the major object for me to 
+learn
+

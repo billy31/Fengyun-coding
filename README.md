@@ -33,3 +33,15 @@ learn
 # 2016.05.11
 
 Hitherto, Fengyun Login file is the latest file which will substitute the Get_Fengyun_website file.
+
+[Finished] Login in Fengyun website
+
+[2] Set the basic info of the required data 
+
+[3] Submit the order
+
+[4] Wait for the website to give u access to download
+
+[5] Get the FTP address, FTP username and code (both are temporary with a 72 hours limit )
+
+[6] Download the data

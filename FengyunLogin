@@ -38,7 +38,7 @@ class fengyun:
     def main(self,name, pswd):
         self.login(name, pswd)
 
-name = 'billy31'#input('username \n>  ')
-pswd = '449933'#input('password \n>  ')
+name = raw_input('username \n>  ')
+pswd = raw_input('password \n>  ')
 fy = fengyun()
 fy.main(name, pswd)

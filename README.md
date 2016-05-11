@@ -30,3 +30,6 @@ Process of downloading Fengyun data:
 HOLY SHIT！ There's something wrong with my code actually. New revision is under coding and pyModis will be the major object for me to 
 learn
 
+# 2016.05.11
+
+Hitherto, Fengyun Login file is the latest file which will substitute the Get_Fengyun_website file.

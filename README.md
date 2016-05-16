@@ -36,3 +36,10 @@ Hitherto, Fengyun Login file is the latest file which will substitute the Get_Fe
 
 [1] Login in Fengyun website (FINISHED!)
 
+# 2016.05.16
+
+HOLY！This is the time I've finished the first part for real. Coz I realized that I actually made mistakes in Fengyun Login. I cannot 
+
+say that the series Gravity Falls gave me inspiration, but I do finish this word after watching the whole first season Gravity Falls.
+
+[1] Login in Fengyun website (FINISHED!REALLY!)

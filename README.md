@@ -43,3 +43,19 @@ HOLY！This is the time I've finished the first part for real. Coz I realized th
 say that the series Gravity Falls gave me inspiration, but I do finish this word after watching the whole first season Gravity Falls.
 
 [1] Login in Fengyun website (FINISHED!REALLY!)
+
+# 2016.05.25
+
+Finally！Everything is done except for several things: downloading files and use headless ways(now I'm using Chrome driver)
+
+[1] Login in Fengyun website（Done）
+
+[2] Set the basic info of the required data（Done） 
+
+[3] Submit the order（Done）
+
+[4] Wait for the website to give u access to download（Done）
+
+[5] Get the FTP address, FTP username and code (both are temporary with a 72 hours limit )
+
+[6] Download the data
